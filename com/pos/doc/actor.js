@@ -1,4 +1,4 @@
 'use strict'
 
 alert('hi bay');
-hgchcuhgvkjh
+this is my second commit on branche 2
